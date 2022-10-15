@@ -1,0 +1,253 @@
+body {
+    background: #f5f5f5;
+    color: #000000;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+}
+
+/* Шапка */
+header {
+    background: #FFB44E;
+    position: absolute;
+    width: 1920px;
+    height: 120px;
+    left: 0px;
+    top: 0px;
+}
+.ellipse1 {
+    position: absolute;
+    width: 81px;
+    height: 78px;
+    left: 41px;
+    top: 19px;
+    background: #FFB44E;
+}
+.headertext {
+    position: absolute;
+    width: 998.17px;
+    height: 48.52px;
+    margin-left: 193.2px;
+    margin-top: 33.75px;
+    
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    color: #FFFFFF;
+}
+
+/* Меню навигации */
+nav {
+    position: absolute;
+    width: 1920px;
+    height: 54px;
+    left: 0px;
+    top: 120px;
+    background: #C2CEFC;
+}
+.nav1 {
+    position: absolute;
+    width: 70.65px;
+    height: 29.53px;
+    left: 46.86px;
+    margin-top: 12px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.nav2 {
+    position: absolute;
+    width: 188.01px;
+    height: 29.53px;
+    left: 242px;
+    margin-top: 12px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.nav3 {
+    position: absolute;
+    width: 137.88px;
+    height: 29.53px;
+    left: 554px;
+    margin-top: 12px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.nav4 {
+    position: absolute;
+    width: 222.2px;
+    height: 29.53px;
+    left: 816px;
+    margin-top: 12px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+
+/* Сайдбар */
+aside {
+    position: absolute;
+    width: 418.18px;
+    height: 775.2px;
+    left: 0px;
+    top: 174.02px;
+    background: #E9E7E7;
+}
+.new1 {
+    position: absolute;
+    width: 341.84px;
+    height: 227.81px;
+    left: 44.44px;
+    top: 9.53px;
+}
+.zagl {
+    position: absolute;
+    width: 280px;
+    height: 60px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.fon {
+    position: absolute;
+    width: 341.84px;
+    height: 152.93px;
+    top: 94.41px;
+    background: #D9D9D9;
+}
+.newstext {
+    position: absolute;
+    width: 303.1px;
+    height: 125.51px;
+    left: 19.37px;
+    top: 3.71px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #000000;
+}
+.new2 {
+    position: absolute;
+    width: 341.84px;
+    height: 227.81px;
+    left: 44.44px;
+    top: 256.9px;
+}
+.new3 {
+    position: absolute;
+    width: 341.84px;
+    height: 227.81px;
+    left: 44.44px;
+    top: 508.42px;
+}
+
+
+/* Основная часть */
+#content {
+    background: #F2F2F2;
+    display: inline-block;
+    width: 89.5%;
+    height: 400px;
+}
+.photo {
+    position: absolute;
+    width: 1149.72px;
+    height: 558.98px;
+    left: 505px;
+    top: 210px;
+}
+.bigtext {
+    position: absolute;
+    width: 1156.56px;
+    height: 88.59px;
+    left: 505px;
+    top: 776.91px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+}
+.littletext {
+    position: absolute;
+width: 101.41px;
+height: 14.77px;
+left: 505px;
+top: 884.49px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #000000;
+}
+
+/* Ластецкая часть */
+footer {
+    position: absolute;
+    width: 1920px;
+    height: 131px;
+    left: 0px;
+    top: 949px;
+    background: #28376F;
+}
+.footertext {
+    position: absolute;
+    width: 1224.93px;
+    height: 37.97px;
+    left: 52.86px;
+    top: 26.63px;
+
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+.vk {
+    position: absolute;
+    width: 50px;
+    height: 45px;
+    left: 1830.14px;
+    top: 30.3px;
+}
+.logo {
+    width: 31.91px;
+    height: 25px;
+    position: absolute;
+    left: 1838.12px;
+    right: 16.67%;
+    top: 30.62%;
+    bottom: 27.71%;
+}
